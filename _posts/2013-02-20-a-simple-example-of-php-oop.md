@@ -1,7 +1,7 @@
 ---
 title: A simple example of PHP OOP
 layout: single_post
-permalink: a-simple-example-of-php-ooput
+permalink: a-simple-example-of-php-oop
 author: Shaharia Azam
 author_url: http://www.shahariaazam.com
 categories: [PHP, OOP]
