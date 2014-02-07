@@ -1,0 +1,60 @@
+<!--Google Analytics-->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-15314041-1']);
+    _gaq.push(['_setDomainName', 'shahariaazam.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+<!--@Google Analytics-->
+<!-- AddThis Smart Layers BEGIN -->
+<!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5213ced8321201d5"></script>
+<script type="text/javascript">
+    addthis.layers({
+        'theme' : 'transparent',
+        'share' : {
+            'position' : 'left',
+            'numPreferredServices' : 6
+        },
+        'follow' : {
+            'services' : [
+                {'service': 'facebook', 'id': 'shaharia.azam'},
+                {'service': 'twitter', 'id': 'shaharia'},
+                {'service': 'linkedin', 'id': 'shaharia'},
+                {'service': 'google_follow', 'id': '114541364064474970092'},
+                {'service': 'youtube', 'id': 'shahariaazam‎'}
+            ]
+        },
+        'whatsnext' : {},
+        'recommended' : {
+            'title': 'Recommended for you:'
+        }
+    });
+</script>
+<!-- AddThis Smart Layers END -->
+
+<script src="http://yui.yahooapis.com/3.12.0/build/yui/yui-min.js"></script>
+<script>
+    YUI().use('node-base', 'node-event-delegate', function (Y) {
+        // This just makes sure that the href="#" attached to the <a> elements
+        // don't scroll you back up the page.
+        Y.one('body').delegate('click', function (e) {
+            e.preventDefault();
+        }, 'a[href="#"]');
+    });
+</script>
+
+
+</body>
+</html>

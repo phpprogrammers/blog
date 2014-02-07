@@ -1,0 +1,19 @@
+markdown:      maruku
+markdown_ext:  markdown,mkd,mkdn,md
+pygments: true
+permalink: /:title
+rdiscount:
+  extensions: [smart, Kramdown]
+paginate: 10
+name: Shaharia Azam
+url: http://blog.php-programmers.net
+description: Blog of PHP-Programmers Community
+twitter: shaharia
+github: shahariaazam
+facebook: shaharia.azam
+mainSiteHome: http://blog.shahariaazam.com
+bannermain: banner_horizontal.jpg
+author: Shaharia Azam
+authorUrl: http://www.shahariaazam.com
+fbAppId: 268051693301630
+#gravatar_url: nil
