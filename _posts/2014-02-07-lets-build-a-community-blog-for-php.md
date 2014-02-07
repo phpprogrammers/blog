@@ -1,7 +1,7 @@
 ---
 title: Let's build a PHP community blog
 layout: single_post
-permalink: a-simple-example-of-php-oop
+permalink: lets-build-a-php-community-blog
 author: Shaharia Azam
 author_url: http://www.shahariaazam.com
 ---
