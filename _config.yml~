@@ -5,15 +5,15 @@ permalink: /:title
 rdiscount:
   extensions: [smart, Kramdown]
 paginate: 10
-name: Shaharia Azam
+name: PHP Programmers Blog
 url: http://blog.php-programmers.net
 description: Blog of PHP-Programmers Community
-twitter: shaharia
-github: shahariaazam
-facebook: shaharia.azam
-mainSiteHome: http://blog.shahariaazam.com
+twitter: #
+github: phpprogrammers
+facebook: #
+mainSiteHome: http://blog.php-programmers.net
 bannermain: banner_horizontal.jpg
-author: Shaharia Azam
-authorUrl: http://www.shahariaazam.com
+author: Community author
+authorUrl: http://php-programmers.net
 fbAppId: 268051693301630
 #gravatar_url: nil
