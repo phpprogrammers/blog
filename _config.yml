@@ -5,7 +5,7 @@ permalink: /:title
 rdiscount:
   extensions: [smart, Kramdown]
 paginate: 10
-name: PHP Programmers Blog
+name: PHP Programmers
 url: http://blog.php-programmers.net
 description: Blog of PHP-Programmers Community
 twitter: #
