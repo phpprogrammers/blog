@@ -26,7 +26,7 @@
                         <h2 class="post-title"><a href="{{ post.url }}">{{ page.title }}</a></h2>
 
                         <p class="post-meta">
-                            Published on {{ page.date | date: "%d %b %Y" }} <br> <br>
+                            by <a href="{{ page.author_url }}">{{ page.author }}</a>Published on {{ page.date | date: "%d %b %Y" }} <br> <br>
                             <!-- AddThis Button BEGIN -->
                             <div class="addthis_toolbox addthis_default_style ">
                             <a class="addthis_button_facebook_like" fb:like:href="https://www.facebook.com/shahariaazamweb" fb:like:layout="button_count"></a>
